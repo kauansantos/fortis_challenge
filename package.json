@@ -1,0 +1,13 @@
+{
+  "name": "fortis-random-dates",
+  "version": "1.0.0",
+  "description": "Cypress automation for Fortis - Random Date Generator",
+  "scripts": {
+    "test": "cypress run",
+    "open": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^13.17.0",
+    "dayjs": "^1.11.10"
+  }
+}
